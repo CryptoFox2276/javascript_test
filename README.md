@@ -10,7 +10,7 @@
 1. **Clone this repository** on your local machine.
 2. Run `yarn` (or `npm install`) on the downloaded folder.
 3. Open the folder using an IDE of your preference.
-4. Open a terminal session on that folder _(we'll use VSCode's integrated terminal)_.
+4. Open a terminal session on that folder.
 5. Running `yarn test` on the root folder of this repository.
 
 Nice work!
